@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="300"/>
 </div> 
 <!--
 **WolpenTinger/WolpenTinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
