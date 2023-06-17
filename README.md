@@ -10,9 +10,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="c" width="40" height="40" /> </a>
+  <a href="https://ru.legacy.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="cplusplus" width="40" height="40" /> </a>
 </p>
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
